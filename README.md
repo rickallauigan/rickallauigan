@@ -2,7 +2,7 @@
 
 # Rick Allauigan
 
-**Backend developer building toward platform engineering**
+**Software Engineer building toward platform engineering**
 
 `Linux systems` · `Automation` · `Containers` · `Self-hosting`
 
